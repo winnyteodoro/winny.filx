@@ -1,0 +1,25 @@
+body{
+    color:white;
+background: black; 
+margin: 0px;
+font-family:fires-snas;"chak patch";
+}
+
+header{
+  border-bottom: solid 2px rgb(27,127,204,.8);
+padding: 20px;
+font-size: 32px;
+color: rgb(42,122,228);
+}
+
+select {
+padding-bottom: 80px;
+ padding-top: 80px;
+ display: flex;
+ justify-content:center; 
+  }
+
+
+  div{
+    margin-right: 20px;
+  }
